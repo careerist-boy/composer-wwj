@@ -1,0 +1,21 @@
+{
+    "name": "wwj/test",
+    "description": "this is a test",
+    "type": "library",
+    "require": {
+        "php": ">5.6"
+    },
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Wwj\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wwj",
+            "email": "812483385@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
